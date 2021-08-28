@@ -1,0 +1,1 @@
+write a program that reads the file and saves all the names in three different files alive.txt , dusted.txt and died.txt without the suffixes i.e. removing <alive> etc. from the names. The first letters of all the first and last names should be capitalized and the names should be stored in alphabetical order. Watch out for the blank lines and duplicate names
