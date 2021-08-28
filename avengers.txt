@@ -1,0 +1,24 @@
+iron man<alive>
+doctor strange<dusted>
+spiderman<dusted>
+black widow<alive>
+groot<dusted>
+quill<dusted>
+gamora<died>
+mantis<dusted>
+captain america<alive>
+black panther<dusted>
+okoye<dusted>
+iron man<alive>
+valkyrie<alive>
+korg<alive>
+bruce banner<alive>
+vision<died>
+hawkeye<alive>
+vision<died>    
+thor<alive>
+gamora<died>
+captain marvel<alive>
+miek<alive>
+nick fury<dusted>
+rocket<alive>
